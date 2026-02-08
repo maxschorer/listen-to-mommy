@@ -13,7 +13,7 @@ Push-to-talk AI character app for kids. Talk to Mickey (or any character) who ge
 
 - **App:** React Native (Expo)
 - **Speech-to-Text:** OpenAI Whisper
-- **LLM:** OpenAI GPT-4o
+- **LLM:** OpenAI GPT-5.2
 - **Text-to-Speech:** ElevenLabs (custom Mickey voice)
 
 ## Setup
